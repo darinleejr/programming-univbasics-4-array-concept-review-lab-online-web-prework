@@ -7,7 +7,7 @@ def find_max_value(array)
 end
 
 def find_min_value(array)
-  array = [6, 2]
+  array = [6, 3]
   
   array.at(-1)
 end
